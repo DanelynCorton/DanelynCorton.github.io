@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/DanelynCorton/DanelynCorton.github.io/static/css/main.deb5c223.css",
+    "main.js": "/DanelynCorton/DanelynCorton.github.io/static/js/main.f96c2d16.js",
+    "static/media/mountain.jpg": "/DanelynCorton/DanelynCorton.github.io/static/media/mountain.f71d0363fcc08b6125aa.jpg",
+    "service-worker.js": "/DanelynCorton/DanelynCorton.github.io/service-worker.js",
+    "static/media/daylight.jpg": "/DanelynCorton/DanelynCorton.github.io/static/media/daylight.1c54e4aa088de933e298.jpg",
+    "static/media/GH.svg": "/DanelynCorton/DanelynCorton.github.io/static/media/GH.b9e9a9aa6f05e9dfe5dcb8991bda3e4d.svg",
+    "static/media/logo.svg": "/DanelynCorton/DanelynCorton.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/DanelynCorton/DanelynCorton.github.io/index.html",
+    "main.deb5c223.css.map": "/DanelynCorton/DanelynCorton.github.io/static/css/main.deb5c223.css.map",
+    "main.f96c2d16.js.map": "/DanelynCorton/DanelynCorton.github.io/static/js/main.f96c2d16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.deb5c223.css",
+    "static/js/main.f96c2d16.js"
+  ]
+}
